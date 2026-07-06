@@ -1,42 +1,32 @@
 # CV — Jérémy TARLIÉ
 
-CV personnel au format HTML, responsive et imprimable, avec mise en page moderne et bouton d’export PDF.
+Ce dépôt rassemble mon curriculum vitae personnel : une présentation claire de mon parcours, de mes compétences et de ce que je fais aujourd’hui en tant que développeur.
 
----
+## À propos
 
-## Aperçu
+Je suis **développeur Full-Stack**, avec une spécialisation en **Intelligence Artificielle**. Mon travail consiste à concevoir des applications web complètes — de l’architecture backend jusqu’à l’interface utilisateur — en intégrant des solutions d’IA et de Machine Learning lorsque cela apporte une vraie valeur aux processus métier.
 
-- **Format** : une seule page HTML autonome (pas de dépendances externes)
-- **Design** : thème bleu, typographie claire, mise en page type A4 (210 mm)
-- **Fonctionnalités** : bouton « Télécharger en PDF » (impression navigateur), mise en page adaptée à l’écran et à l’impression
+Basé à **Nantes** et ouvert au **remote**, j’aime construire des outils utiles, automatisés et bien pensés, que ce soit pour des clients ou dans le cadre de projets personnels.
 
-## Utilisation
+## Ce que contient ce CV
 
-1. Ouvrir `cv_jeremy_tarlie.html` dans un navigateur (Chrome, Firefox, Edge, etc.).
-2. Pour obtenir un PDF : cliquer sur **« Télécharger en PDF »** en haut à droite, ou utiliser **Ctrl+P** (ou Cmd+P sur Mac) et choisir « Enregistrer au format PDF ».
+Le document présente :
 
-Aucune installation ni serveur n’est nécessaire.
+- **Mon profil** et ma façon d’aborder le développement
+- **Mon expérience professionnelle** — de la création d’intranets à la conception d’applications IA en production
+- **Mes projets personnels** — plateformes SaaS, outils de sécurité, applications desktop, etc.
+- **Ma formation** — du Bac+2 au Master Développement Web & IA
+- **Mes compétences**, langues et qualités humaines
 
-## Structure du projet
+L’objectif est simple : offrir une vision fidèle et lisible de qui je suis professionnellement, en une page.
 
-```
-CV/
-├── cv_jeremy_tarlie.html   # CV (HTML + CSS intégrés)
-├── README.md               # Ce fichier
-└── LICENSE                 # Licence du projet
-```
+## Pour en savoir plus
 
-## Personnalisation
-
-Le fichier HTML contient tout le contenu et les styles. Pour modifier le CV :
-
-- **Texte** : éditer les sections dans le `<body>` (expériences, formations, compétences, etc.).
-- **Couleurs** : ajuster les variables CSS dans `:root` en haut du `<style>` (ex. `--blue-dark`, `--accent`).
+- Portfolio : [tarlie.fr](https://tarlie.fr)
+- LinkedIn : [linkedin.com/in/jeremy-tarlie](https://linkedin.com/in/jeremy-tarlie)
+- GitHub : [github.com/Jeremy-Tarlie](https://github.com/Jeremy-Tarlie)
+- Contact : [contact@tarlie.fr](mailto:contact@tarlie.fr)
 
 ## Licence
 
 Ce projet est sous licence MIT. Voir le fichier [LICENSE](LICENSE) pour les détails.
-
----
-
-*Dernière mise à jour : mars 2025*
